@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<root>
+    <child attr="attrval"/>
+    And now, for some raw text.
+</root>
