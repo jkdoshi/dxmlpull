@@ -1,0 +1,1 @@
+This is a very basic implementation of the XML Pull API in D Programming Language. It is derived from MParser
